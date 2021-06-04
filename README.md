@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning
 - 🌱 I’m currently learning ...magento
 - 💞️ I’m looking to collaborate on ...opensource
-- 📫 How to reach me ...sanjay.d@gmail.com
+- 📫 How to reach me ...sanjay.d@codilar.com
 
 <!---
 sanjay-codez/sanjay-codez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
